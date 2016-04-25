@@ -1,0 +1,21 @@
+{
+  "results" : [ {
+    "uri" : "http://example.com/1",
+    "status" : 200,
+    "tag" : [ "required" ],
+    "description" : null,
+    "level" : "OK"
+  }, {
+    "uri" : "http://example.com/2",
+    "status" : 200,
+    "tag" : [ "required" ],
+    "description" : "warning!",
+    "level" : "WARN"
+  }, {
+    "uri" : "http://example.com/3",
+    "status" : 503,
+    "tag" : [ "required" ],
+    "description" : "error!!",
+    "level" : "ERROR"
+  } ]
+}

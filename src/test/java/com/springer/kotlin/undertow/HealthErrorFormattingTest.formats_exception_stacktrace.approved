@@ -1,0 +1,2 @@
+java.io.IOException: a failure occurred
+  com.springer.kotlin.undertow.HealthErrorFormattingTest.formats_exception_stacktrace(app_anatomy_tests.kt:16)
